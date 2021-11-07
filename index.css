@@ -20,7 +20,6 @@
     display: flex;
     justify-content: space-between;
     background-color: rgb(0, 0, 0,0.5);
-    opacity: ;
 }
 .section1 p{
     color: white;
@@ -45,6 +44,10 @@
     width: 120px;
     font-size: large;
 }
+.section2{
+    background-color: rgb(225, 225, 226);
+    height: 500px;
+}
 .section2 .services{
     display: flex;
     flex-direction: column;
@@ -65,21 +68,28 @@
     margin-right: 10em;
     margin-top: 3em;
     margin-bottom: 5em;
+
 }
 .section2 .services2 #one{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: white;
+    padding: 2em;
 }
 .section2 .services2 #two{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: white;
+    padding: 2em;
 }
 .section2 .services2 #three{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: white;
+    padding: 2em;
 }
 .section3{
     display: flex;
