@@ -78,3 +78,23 @@
     flex-direction: column;
     align-items: center;
 }
+.section3{
+    display: flex;
+    width: 100%;
+    
+}
+.section3 #sectioninfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding-top: 5em;
+    padding-left: 9em;
+    padding-right: 9em;
+    margin-bottom: 0.48em;
+
+}
+.section3 #img2{
+    width: 50%;
+}
