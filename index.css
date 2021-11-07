@@ -177,3 +177,30 @@
     font-size: large;
     color: #f19201;
 }
+.section5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("images2/image8.png");
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 420px;
+    color: white;
+}
+.section5>p{
+    margin-top: 4em;
+    font-size: x-large;
+}
+.section5>h3{
+    font-size: xx-large;
+}
+.section5>button{
+    height: 40px;
+    width: 150px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    font-size: large;
+    margin-top: 1em;
+}
