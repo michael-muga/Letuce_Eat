@@ -98,3 +98,82 @@
 .section3 #img2{
     width: 50%;
 }
+.section4{
+    background-color: rgb(225, 225, 226);
+}
+.section4 .menuinfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3em;
+}
+.section4 button{
+    background-color: rgb(225, 225, 226);
+    border-color: rgb(225, 225, 226);
+    height: 30px;
+    width: 80px;
+}
+.section4 .menuItems .item1{
+    display: flex;
+    margin-bottom: 2em;
+    background-color: white;
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+
+}
+.section4 .menuItems .item1 #chapatiinfo{
+    margin-left: 2em;
+}
+.section4 .menuItems .item2{
+    display: flex;
+    margin-bottom: 2em;
+    background-color: white;
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+
+}
+.section4 .menuItems .item2 #Beefinfo{
+    margin-left: 2em;
+}
+.section4 .menuItems .item3{
+    display: flex;
+    margin-bottom: 2em;
+    background-color: white;
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+
+}
+.section4 .menuItems .item3 #chickeninfo{
+    margin-left: 2em;
+}
+.section4 .menuItems .item4{
+    display: flex;
+    margin-bottom: 2em;
+    background-color: white;
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+
+}
+.section4 .menuItems .item4 #riceinfo{
+    margin-left: 2em;
+}
+
+.section4 .menuItems{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 13em;
+    margin-right: 10em;
+}
+.section4 .menuItems h5{
+    font-size: large;
+    color: #f19201;
+}
