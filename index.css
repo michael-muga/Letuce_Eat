@@ -1,0 +1,44 @@
+
+#logo{
+    display: flex;
+    margin-left: 2em;   
+}
+#logo img{
+    margin-top: 0.5em;
+}
+#navbar li{
+    display: inline;
+    margin-right: 4em;
+    color: white;
+}
+.section1 button{
+    background-color: #f19201;
+    color: white;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.section1 p{
+    color: white;
+}
+.section1{
+    background-image: url("images2/image2.png");
+    background-size: 1450px;
+    height: 500px;
+    width: 100%
+}
+.section1 .section1info{
+    margin-top: 7em;
+    margin-left: 5em;
+}
+.section1 .section1info p{
+    font-size:xx-large;
+    font-weight: 700;
+}
+.section1 .section1info button{
+    margin-top: 40px;
+    height: 40px;
+    width: 120px;
+    font-size: large;
+}
